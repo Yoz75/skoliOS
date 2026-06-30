@@ -24,3 +24,4 @@ docs/
 *.lst
 bin/EFI/BOOT/BOOTX64.efi
 bin/NvVars
+bin/SkoliOS hello World.zip
